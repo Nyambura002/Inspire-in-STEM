@@ -19,9 +19,8 @@ print(f"My name is {name} and I am {age} years old")
 print(f"My \t name is {name} \n and I am {age} years old")
 print(name, age)
 
-print(user_name.rstrip{})
-print(user_name.lstrip{})
-
+print(user_name.rstrip())
+print(user_name.lstrip())
 
 
 

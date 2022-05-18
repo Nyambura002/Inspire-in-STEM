@@ -4,13 +4,17 @@
 Day 1 : installing python
 
 Add a link to download python
-
+https://www.python.org/downloads/
 
 Add link to downloading vs code
+https://code.visualstudio.com/download
 
 Add link to downloading git for windows
+https://gitforwindows.org/
 
-[./Images/lesson1.PNG]
+
+![lesson1](./Images/lesson1.PNG)
+
 Strings
     replace()
     strip()
@@ -19,7 +23,7 @@ Strings
     upper()
     lower()
     len()
-    
+
 
 
 ## Week 2: Electronics for Innovators
