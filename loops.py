@@ -13,6 +13,3 @@ for pupil in pupil:
 for school in school:
     print(f"I go to {school}")
     
-
-
-
