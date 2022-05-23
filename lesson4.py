@@ -1,4 +1,6 @@
-#integers
+#!/usr/bin/python
+
+#lesson on integers
 
 x= 400
 y=700

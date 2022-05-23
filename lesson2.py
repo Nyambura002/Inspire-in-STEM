@@ -1,6 +1,6 @@
+#!/usr/bin/python
+
 #my age is an integer-positive/negative whole numbers
-
-
 
 noOfSibling=4
 

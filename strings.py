@@ -1,4 +1,10 @@
-#strings
+#!/usr/bin/python
+
+#################################################################################################
+#                                    LISTS
+#                             Name : Faith Njuguna
+#                             Date : 20/05/2022
+#################################################################################################
 
 name = "Faith Njuguna"
 
@@ -70,4 +76,3 @@ msg = "My name is Faith Njuguna and coding is really fun"
 print(msg.split())
 #to get the number of characters in each sentence
 print(len(msg))
-

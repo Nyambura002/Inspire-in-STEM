@@ -1,9 +1,10 @@
-#calculate the area of a circle
+#!/usr/bin/python
 
+#calculate the area of a circle
 
 #let use type input
 
-#are of a circle
+#area of a circle
 radius= input("Enter the radius of a circle")
 pi=3.142
 radius= int(radius)
@@ -35,3 +36,5 @@ diametre = input(" Enter the diametre of a circle")
 diametre= int(diametre)
 surfacearea =(pi * diametre * enterHeightOfCylinder)
 print(" The surfacearea of an open cylinder is " +str(surfacearea))
+
+

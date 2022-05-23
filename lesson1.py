@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #Python Basics
 
 #This is a comment

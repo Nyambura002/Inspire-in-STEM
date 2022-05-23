@@ -1,4 +1,6 @@
-# methods
+#!/usr/bin/python
+
+#lesson on methods
 name = "Faith Njuguna"
 name = "Ada Lovelace"
 user_name= "Lovelace"
