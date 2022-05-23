@@ -22,5 +22,7 @@ print(name, age)
 print(user_name.rstrip())
 print(user_name.lstrip())
 
+print("Monday\tTuesday\tWednesday\tThursday\tFriday\tSaturday\tSunday")
+print("Kisumu\nNyeri\nKiambu")
 
 

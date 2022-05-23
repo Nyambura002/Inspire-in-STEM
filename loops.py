@@ -1,3 +1,11 @@
+
+
+
+
+
+from tkinter import N
+
+
 school = ["Joy", "Peace", "Hope", "Light"]
 pupil = ["James", "John", "Luke", "Matthew"]
 
@@ -13,3 +21,12 @@ for pupil in pupil:
 for school in school:
     print(f"I go to {school}")
     
+print("Number\tsquare")
+print("===================")
+for number in range(0,9):
+   print(number)
+   print(number**2)
+   print("\t")
+
+
+

@@ -13,3 +13,6 @@ print(" The difference between x and y is " +str(diff))
 print(" The product of x and y is " +str(prod))
 print(" The quotient of x and y is " +str(quot))
 
+#powers
+print(1**2)
+print(2**2)

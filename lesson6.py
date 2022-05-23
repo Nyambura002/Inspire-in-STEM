@@ -47,3 +47,8 @@ print(f"My name is {motocycle_owner} and I own a {motorcycle[0]} plate number {p
 motorcycle = ["honda", "yamaha", "suzuki"]
 motorcycle.remove("suzuki")
 print(motorcycle)
+
+#accessing items in the list
+fruits = ["Mango","Banana","Lime","Orange"]
+print(fruits[-1])  #last item
+print(fruits[-2])  # second last item
