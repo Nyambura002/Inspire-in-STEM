@@ -15,7 +15,7 @@ https://gitforwindows.org/
 
 
 ![lesson1](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson1.PNG)
-![lesson2](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson2.PNG)
+![lesson2](https://user-images.githubusercontent.com/105628857/170124449-5ab48bed-aef5-45fc-b165-d3a7f406e4ef.PNG)
 ![lesson3](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson3.PNG)
 ![lesson4](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson4.PNG)
 ![lesson5](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson5.PNG)
