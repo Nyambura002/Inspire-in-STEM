@@ -12,10 +12,10 @@ print(pi*(radius*radius))
 
 #volume of a cube
 length= input("Enter the length of the cube")
-enterLengthOfCube = 14
-enterLengthOfCube = 14
-enterLengthOfCube = 14
-volume = pi * enterLengthOfCube * enterLengthOfCube * enterLengthOfCube
+lengthOfCube = 14
+lengthOfCube = 14
+lengthOfCube = 14
+volume = pi * lengthOfCube * lengthOfCube * lengthOfCube
 print(" The volume of the cube is " +str(volume))
 
 
@@ -23,18 +23,18 @@ print(" The volume of the cube is " +str(volume))
 radius= input("Enter the radius of a circle")
 pi=3.142
 radius= int(radius)
-enterHeightOfCylinder= 15
-volume = pi * radius * radius * enterHeightOfCylinder
+heightOfCylinder= 15
+volume = pi * radius * radius * heightOfCylinder
 print(" The volume of the cylinder is " +str(volume))
 
 #surface area of an open cylinder
 radius= input(" Enter the radius of a circle")
 pi=3.142
 radius= int(radius)
-enterHeightOfCylinder = 15
+heightOfCylinder = 15
 diametre = input(" Enter the diametre of a circle")
 diametre= int(diametre)
-surfacearea =(pi * diametre * enterHeightOfCylinder)
+surfacearea =(pi * diametre * heightOfCylinder)
 print(" The surfacearea of an open cylinder is " +str(surfacearea))
 
 
