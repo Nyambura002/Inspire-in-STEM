@@ -5,13 +5,14 @@ acc_balance = (int(input ("What is your account balance?")))
 
 if (int(acc_balance) > 100000 and int (acc_balance) < 200000):
     acc_balance = acc_balance - 25000
-    print("Ksh 25,000 has been deducted from your account.")
+    print("Ksh 25,000 has been deducted from your account.\n")
 elif (int(acc_balance) > 500000 and int (acc_balance) < 1000000):
     acc_balance = acc_balance - (0.3*acc_balance)
     print("We have deducted 30% from your account balance.")
 elif (int(acc_balance) > 1000000):
     acc_balance = acc_balance - 15000
     print("Ksh 15,000 has been deducted from your account.")
+    
 
     
 

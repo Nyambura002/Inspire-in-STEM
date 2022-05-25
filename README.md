@@ -13,20 +13,26 @@ https://code.visualstudio.com/download
 Add link to downloading git for windows
 https://gitforwindows.org/
 
+Git commands: git add * (all files)
+              git add lesson4.py (single file)
+              git commit -m "Lesson 8 on if statements"
+              git branch -m main
+              git config --global username = "Nyambura002"
+              git config --global user.email = "faithnjuguna2003@gmail.com"
+              git remote add main 
+              git push 
+              
+![lesson1](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson1.PNG?raw=true)
 
-![lesson1](Images\lesson1.PNG)
+![lesson2](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson2.PNG?raw=true)
 
-![lesson2](Images\lesson2.PNG)
+![lesson3](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson3.PNG?raw=true)
 
-![lesson2](Images\lesson2.PNG)
+![lesson4](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson4.PNG?raw=true)
 
-![lesson3](Images\lesson3.PNG)
+![lesson5](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson5.PNG?raw=true)
 
-![lesson4](Images\lesson4.PNG)
-
-![lesson5](Images\lesson5.PNG)
-
-![Calculator_assignment](Images\Calculator_assignment.PNG)
+![Calculator_assignment](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/Calculator_assignment.PNG?raw=true)
 
 
 Day 2: Strings:-format()
@@ -34,7 +40,7 @@ Day 2: Strings:-format()
                -lower()
                -len()
 -Use either camel case or snake syntax when writing your variables
-![strings](Images\strings.PNG)
+![strings](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/strings.PNG?raw=true)
 
 
 Day 3:-Datatypes
@@ -55,21 +61,27 @@ Day 5: -Loops:use for loops
        -To access an element in a list use the indexes:start from 0 
        -To add an element use .append
        -To remove an element use .pop
-![lesson6](C:\Users\USER\Desktop\Inspire-in-STEM\Images\lesson6.PNG)
+![lesson6](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson6.PNG?raw=true)
 
 
 ## Week 2: Electronics for Innovators
 Day 6:-Recap on previous lessons
       -Dictionaries:-are in pairs
       -Removing values:use del
-![lesson7](Images\lesson7.PNG)
+![lesson7](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson7.PNG?raw=true)
 
 Day 7:-Squares:-use for loops
       -Initialize first as an empty list.
       -Program using if to get feedback(assignment 3 and 4)
-![lesson8](Images\lesson8.PNG.jpg)
-![Assignment3](Images\Assignment3.PNG.jpg)
-![Assignment4](Images\Assignment4.PNG.jpg)
+![lesson8](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson8.PNG.jpg?raw=true)
+![Assignment3](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/Assignment3.PNG.jpg?raw=true)
+![Assignment4](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/Assignment4.PNG.jpg?raw=true)
+
+Day 8:-Using if statements and for loops
+      -Dictionaries:>What is a dictionary
+                    >Adding a key in a dictionary
+                    >Looping in dictionaries
+                    >Deleting an element from a dictionary
 
 ## Week 3: Introduction to Robotics
 
