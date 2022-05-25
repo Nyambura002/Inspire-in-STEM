@@ -22,9 +22,9 @@ Git commands: git add * (all files)
               git remote add main 
               git push 
               
-![lesson1](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson1.PNG?raw=true)
+![lesson1](image.png)
 
-![lesson2](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson2.PNG?raw=true)
+![lesson2](image.png)
 
 ![lesson3](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson3.PNG?raw=true)
 
