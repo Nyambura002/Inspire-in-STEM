@@ -35,5 +35,28 @@ print(person)
 for key, value in person.items():
     print(f"{key}:{value}")
 
+colors = ["red", "green", "blue", "orange"]
 
+i = 1
+while i <len(colors):
+    if(colors[0]=='red'):
+        print(colors[0].upper())
+        i +=1
 
+i = 1
+while i <len(colors):
+    if(colors[1]=='green'):
+        print(colors[1].upper())
+        i +=1
+
+i = 1
+while i <len(colors):
+    if(colors[2]=='blue'):
+        print(colors[2].upper())
+        i +=1
+
+i = 1
+while i <len(colors):
+    if(colors[3]=='orange'):
+        print(colors[3].upper())
+        i +=1

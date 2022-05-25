@@ -22,17 +22,12 @@ Git commands: git add * (all files)
               git remote add main 
               git push 
               
-![lesson1](https://user-images.githubusercontent.com/105628857/170321192-0d3bcf24-c095-4ca3-8e86-1a0f8d651e3c.PNG)              
-
-![Calculator_assignment]
-
 
 Day 2: Strings:-format()
                -upper()
                -lower()
                -len()
 -Use either camel case or snake syntax when writing your variables
-![strings]
 
 
 Day 3:-Datatypes
@@ -53,21 +48,16 @@ Day 5: -Loops:use for loops
        -To access an element in a list use the indexes:start from 0 
        -To add an element use .append
        -To remove an element use .pop
-![lesson6]
 
 
 ## Week 2: Electronics for Innovators
 Day 6:-Recap on previous lessons
       -Dictionaries:-are in pairs
       -Removing values:use del
-![lesson7]
 
 Day 7:-Squares:-use for loops
       -Initialize first as an empty list.
       -Program using if to get feedback(assignment 3 and 4)
-![lesson8]
-![Assignment3]
-![Assignment4]
 
 Day 8:-Using if statements and for loops
       -Dictionaries:>What is a dictionary
