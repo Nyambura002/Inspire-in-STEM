@@ -22,15 +22,7 @@ Git commands: git add * (all files)
               git remote add main 
               git push 
               
-![lesson1](image.png)
-
-![lesson2](image.png)
-
-![lesson3](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson3.PNG?raw=true)
-
-![lesson4](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson4.PNG?raw=true)
-
-![lesson5](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/lesson5.PNG?raw=true)
+![lesson1](https://user-images.githubusercontent.com/105628857/170321192-0d3bcf24-c095-4ca3-8e86-1a0f8d651e3c.PNG)              
 
 ![Calculator_assignment](https://github.com/Nyambura002/Inspire-in-STEM/blob/main/Images/Calculator_assignment.PNG?raw=true)
 
