@@ -22,7 +22,7 @@ Git commands: git add * (all files)
               git remote add main 
               git push 
               
-![lesson1](image.png)
+![lesson1](https://user-images.githubusercontent.com/105628857/170321192-0d3bcf24-c095-4ca3-8e86-1a0f8d651e3c.PNG)
 
 ![lesson2](image.png)
 
