@@ -26,6 +26,7 @@ person['favorite_color'] = 'Black'
 print(type(person))
 print(person)
 
+
 #Deleting an element from a dictionary
 print(person['name'],person['age'],person['favorite_color'])
 del person['phone_number']
@@ -60,3 +61,5 @@ while i <len(colors):
     if(colors[3]=='orange'):
         print(colors[3].upper())
         i +=1
+
+        
