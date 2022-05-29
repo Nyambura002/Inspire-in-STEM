@@ -26,12 +26,6 @@ for number in range (0,20):
         prod_nums = prod_nums * number
 print(prod_nums)
 
-#calculate the factorial of 6
-for number in range (0,6):
-    if(number % 6 ==0):
-        fact = number * (number-1)
-        print(fact)
-
 num = 0   #initialize the condition
 while num < 10 :
     print(num)
