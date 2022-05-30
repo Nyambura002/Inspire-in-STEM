@@ -13,7 +13,6 @@ https://code.visualstudio.com/download
 Add link to downloading git for windows
 https://gitforwindows.org/
 
-[lesson1](./Images/lesson1.PNG)
 
 
 Git commands: git add * (all files)
@@ -62,8 +61,6 @@ Day 7:-Squares:-use for loops
       -Initialize first as an empty list.
       -Program using if to get feedback(assignment 3 and 4)
 
-[assignment4](./Images/Assignment4.PNG.jpg)
-
 Day 8:-Using if statements and for loops
       -Dictionaries:>What is a dictionary
                     >Adding a key in a dictionary
@@ -74,7 +71,6 @@ Day 9:-Factorials
       -Pyramids
       -Patterns
       -AP and GP calculations
-
 
 ## Week 3: Introduction to Robotics
 
