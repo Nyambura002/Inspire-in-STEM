@@ -27,7 +27,7 @@ print("===================")
 for number in range(0,9):
    print(number)
    print(number**2)
-   print("\t")
+   print("\t")  
 
 
 
