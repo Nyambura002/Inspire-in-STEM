@@ -72,6 +72,9 @@ Day 9:-Factorials
       -Patterns
       -AP and GP calculations
 
+Day 10:-Tuples:similar to lists but is immutable
+       -Functions:A function is a block of code which gets executed together(all at once)
+
 ## Week 3: Introduction to Robotics
 
 ## Week 4: Javascript, css, html
