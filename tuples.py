@@ -23,6 +23,6 @@ cars = ('nissan','bmw','vw','toyota')
 print(cars)
 
 #favorite foods example-accessing a tuple using a for loop
-fave_foods = ('fries','pizza','chicken','rice','chapati')
+fave_foods = ('fries','pizza','chicken','rice','chapati','salads')
 for fave_food in fave_foods:
     print(fave_food)

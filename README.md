@@ -75,6 +75,8 @@ Day 9:-Factorials
 Day 10:-Tuples:Is similar to lists but is immutable
        -Functions:A function is a block of code which gets executed together(all at once)
 
+Day 11:-Classes:Person and employee program
+
 ## Week 3: Introduction to Robotics
 
 ## Week 4: Javascript, css, html
