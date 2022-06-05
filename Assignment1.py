@@ -2,8 +2,6 @@
 
 #calculate the area of a circle
 
-#let use type input
-
 #area of a circle
 radius= input("Enter the radius of a circle")
 pi=3.142
