@@ -4,13 +4,13 @@
 ## Week 1: Introduction to Python
 Day 1 : Installing python, VS code and gitbash
 
-Add a link to download python
+Link to download python:
 https://www.python.org/downloads/
 
-Add link to downloading vs code
+Link to downloading vs code:
 https://code.visualstudio.com/download
 
-Add link to downloading git for windows
+Link to downloading git for windows:
 https://gitforwindows.org/
 
 
@@ -62,7 +62,7 @@ Day 7:-Squares:-use for loops
       -Program using if to get feedback(assignment 3 and 4)
 
 Day 8:-Using if statements and for loops
-      -Dictionaries:>What is a dictionary
+      -Dictionaries:>What is a dictionary-a collection of key value pairs
                     >Adding a key in a dictionary
                     >Looping in dictionaries
                     >Deleting an element from a dictionary
@@ -73,9 +73,18 @@ Day 9:-Factorials
       -AP and GP calculations
 
 Day 10:-Tuples:Is similar to lists but is immutable
-       -Functions:A function is a block of code which gets executed together(all at once)
+       -Functions:>A function is a block of code which gets executed together(all at once)
+                  >Use def
 
 Day 11:-Classes:Person and employee program
+       >Remember to change the directory before running your code
+
+Day 12:-Using default parameters in functions-start by initializing the variable
+       -Returning a dictionary from a function
+       -Passing a list in a function
+
+Day 13:-Password generator using user input
+
 
 ## Week 3: Introduction to Robotics
 

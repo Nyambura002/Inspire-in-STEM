@@ -5,6 +5,8 @@
 #                        Date : 23/05/2022
 #####################################################################################
 
+#Nested loops:a loop within a loop
+
 school = ["Joy", "Peace", "Hope", "Light"]
 pupil = ["James", "John", "Luke", "Matthew"]
 
