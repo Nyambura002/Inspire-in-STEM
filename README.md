@@ -77,6 +77,7 @@ Day 10:-Tuples:Is similar to lists but is immutable
                   >Use def
 
 Day 11:-Classes:Person and employee program
+       -Object oriented programming(OOP)
        >Remember to change the directory before running your code
 
 Day 12:-Using default parameters in functions-start by initializing the variable
@@ -85,6 +86,8 @@ Day 12:-Using default parameters in functions-start by initializing the variable
 
 Day 13:-Password generator using user input
 
+Day 14:-Operations
+       -Importing data-from different files to the main file
 
 ## Week 3: Introduction to Robotics
 
