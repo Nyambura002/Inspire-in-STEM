@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #################################################################################################
 #                           ACCESSING AND EDITING TEXT FILES
 #                             Name : Faith Njuguna

@@ -18,4 +18,3 @@ my_last_name="Njuguna"
 
 print("I am " + my_first_name)
 print("I am " + str(myAgeIs))
-
