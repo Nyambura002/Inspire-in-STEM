@@ -76,6 +76,8 @@ Day 10:-Tuples:Is similar to lists but is immutable
        -Functions:>A function is a block of code which gets executed together(all at once)
                   >Use def
 
+## Week 3: Introduction to Robotics
+
 Day 11:-Classes:Person and employee program
        -Object oriented programming(OOP)
        >Remember to change the directory before running your code
@@ -89,7 +91,10 @@ Day 13:-Password generator using user input
 Day 14:-Operations
        -Importing data-from different files to the main file
 
-## Week 3: Introduction to Robotics
+Day 15:-Palindromes
+       -Introduction to IoT
+
+Day 16:-Web scraping using python
 
 ## Week 4: Javascript, css, html
 
