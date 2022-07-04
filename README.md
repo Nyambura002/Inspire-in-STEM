@@ -98,6 +98,8 @@ Day 16:-Web scraping using python
 
 ## Week 4: Javascript, css, html
 
+-Introduction to html and css
+
 ## Week 5: Design Thinking, UX, UI
 
 ## Week 6: Pitch competition, campus tour.
