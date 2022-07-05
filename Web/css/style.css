@@ -1,0 +1,32 @@
+body{
+    background-color: azure;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px;
+}
+
+#nav-1{
+    background-color: rgba(209, 151, 224, 0.685);
+    margin: 20px;
+}
+
+
+/* commenting in css */
+
+
+.block{
+    background-color: aquamarine;
+}
+
+.meta-data{
+    color: brown;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.dot{
+    color: rgb(204, 157, 248);
+    font-weight: 500;
+    font-size: 20px;
+}
+
